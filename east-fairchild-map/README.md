@@ -9,7 +9,7 @@ You can view the project [live on GitHub Pages](https://medillcherubs.github.io/
   [UPDATE Link to the published version of this project on WordPress.]
 
 #### Editing the Content
-To edit the content in this project you need to edit the HTML in the index.html page. Click on this link to go to the editor. Make the changes you want to make, then click the green "Commit" button at the bottom of the page. You should see the changes appear within a minute on the WordPress site.
+To edit the content in this project you need to edit the HTML in the index.html page. [Click on this link to go to the editor](https://github.com/medillcherubs/2017-web-week/east-fairchild-map/edit/master/index.html). Make the changes you want to make, then click the green "Commit" button at the bottom of the page. You should see the changes appear within a minute on the WordPress site and on GitHub Pages.
 
 #### Embedding In WordPress
 
@@ -20,7 +20,7 @@ Paste this into your WordPress post, under the "Text" tab instead of the "Visual
 <div id="github-container"></div>
 <script> var pymParent = new pym.Parent("github-container", "//medillcherubs.github.io/2017-web-week/east-fairchild-map/index.html", {}); </script>
 
-<!-- Edit: https://github.com/medillcherubs/2017-web-week/east-fairchild-map/edit/gh-pages/index.html -->
+<!-- Edit: https://github.com/medillcherubs/2017-web-week/east-fairchild-map/edit/master/index.html -->
 [/raw]
 ```
 

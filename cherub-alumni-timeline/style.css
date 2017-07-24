@@ -1,0 +1,114 @@
+.title h1 {
+  font-family: "Open Sans";
+  margin-bottom: -16px;
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.title h2 {
+  font-family: "Open Sans";
+  font-weight: 150;
+  color: #555;
+  font-size: 20px;
+  margin-bottom: -16px;
+}
+
+.title h4 {
+  font-family: "Open Sans";
+  font-weight: 100;
+  color: #555;
+  margin-bottom: 25px;
+
+}
+
+.main-graphic p {
+  font-family: Georgia;
+  font-size: 14px;
+  margin-bottom: 18px;
+
+
+}
+
+.main-graphic h1 {
+  font-family: "Open Sans";
+  margin: 0 auto;
+  width: 500px;
+  border-bottom: 1px solid #DDD;
+  text-align: left;
+  margin-bottom: 22px;
+
+}
+
+.main-graphic h2 {
+
+text-align: left;
+font-weight: bold;
+
+}
+
+.main-graphic .circular {
+  width: 100px;
+  height: 100px;
+  border-radius: 100px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+
+  }
+
+.main-graphic .alum {
+  font-family: "Open Sans";
+  position: relative;
+  margin: 0 auto;
+  width: 500px;
+  margin-bottom: 50px;
+}
+
+.main-graphic .chicken {
+  position: absolute;
+  top: 60px;
+  left: -130px;
+
+}
+
+#lead-paragraph {
+text-align: center;
+margin: 0 auto;
+width: 74%;
+border-bottom: 1px solid #DDD;
+border-top: 1px solid #DDD;
+padding: 10px 0;
+margin-bottom: 35px;
+}
+
+#credit {
+width: 80%;
+margin-left: 10%;
+text-align: left;
+border-top: 1px solid #DDD;
+padding: 18px 0;
+margin-bottom: -13px;
+}
+
+@media (max-width: 900px) {
+  .main-graphic .alum {
+    width: 100%;
+    max-width: 500px;
+  }
+
+  .main-graphic .chicken {
+    position: relative;
+    margin: 0 auto;
+    top: auto;
+    left: auto;
+    display: block;
+  }
+
+  .main-graphic h1 {
+    margin-bottom: 30px;
+
+  }
+
+ .main-graphic h2 {
+    text-align: center;
+  }
+}

@@ -3,9 +3,17 @@
 
 [INSERT Description of what this project is.]
 
-[INSERT Link to the published version of this project on Github.]
+#### Viewing this project
+You can view the project [live on GitHub Pages](https://medillcherubs.github.io/2017-web-week/cherub-quiz/index.html) and you can see the page where it's been embedded [into the Cherub WordPress site]().
 
-Paste this into your Wordpress post, under the "Text" tab instead of the "Visual" tab:
+  [UPDATE Link to the published version of this project on WordPress.]
+
+#### Editing the Content
+To edit the content in this project you need to edit the HTML in the index.html page. Click on this link to go to the editor. Make the changes you want to make, then click the green "Commit" button at the bottom of the page. You should see the changes appear within a minute on the WordPress site.
+
+#### Embedding In WordPress
+
+Paste this into your WordPress post, under the "Text" tab instead of the "Visual" tab:
 
 ```
 [raw]

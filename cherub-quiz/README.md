@@ -1,4 +1,6 @@
 ## 2017-cherub-quiz
+#### [INSERT Names of project producers]
+
 [INSERT Description of what this project is.]
 
 [INSERT Link to the published version of this project on Github.]

@@ -9,7 +9,7 @@ You can view the project [live on GitHub Pages](https://medillcherubs.github.io/
   [UPDATE Link to the published version of this project on WordPress.]
 
 #### Editing the Content
-To edit the content in this project you need to edit the HTML in the index.html page. Click on this link to go to the editor. Make the changes you want to make, then click the green "Commit" button at the bottom of the page. You should see the changes appear within a minute on the WordPress site.
+To edit the content in this project you need to edit the HTML in the index.html page. [Click on this link to go to the editor](https://github.com/medillcherubs/2017-web-week/cherub-quiz/edit/gh-pages/index.html). Make the changes you want to make, then click the green "Commit" button at the bottom of the page. You should see the changes appear within a minute on the WordPress site and on GitHub Pages.
 
 #### Embedding In WordPress
 
